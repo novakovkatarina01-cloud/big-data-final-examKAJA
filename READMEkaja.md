@@ -11,11 +11,11 @@ It includes data ingestion, cleaning, transformation, exploratory analysis, SQL 
 This repository contains:
 
 ##   Notebooks
-- `python_behavior_notebook.ipynb` — PySpark data cleaning, transformation, ML model training, saving model  
-- `sql_behavior_notebook.ipynb` — SQL analytical queries used for insights and dashboards
+- ` python_behavior_notebook.ipynb` — PySpark data cleaning, transformation, ML model training, saving model  
+- ` sql_behavior_notebook.ipynb` — SQL analytical queries used for insights and dashboards
 
 ##  Data
-- `customer_behaviour.csv`
+- ` customer_behaviour.csv` from Keggle 
 
 ## Dashboard Screenshots
 - `sql editor for season dashboard.png`

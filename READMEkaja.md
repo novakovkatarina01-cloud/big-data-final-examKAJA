@@ -1,4 +1,4 @@
-# Big Data Final Exam – Customer Behaviour Analysis from Keggle
+# Big Data Final Exam – Customer Behavior Analysis from Keggle
 Author: **Katarina Novakov** :))
 
 - Project Overview

@@ -1,5 +1,5 @@
 # Big Data Final Exam – Customer Behaviour Analysis from Keggle
-Author: **Katarina Novakov** :)
+Author: **Katarina Novakov** :))
 
 - Project Overview
 This project analyses customer behaviour using PySpark and SQL inside Databricks.  
@@ -10,14 +10,14 @@ It includes data ingestion, cleaning, transformation, exploratory analysis, SQL 
 #Contents of This Repository
 This repository contains:
 
-### ✔ Notebooks
+##   Notebooks
 - `python_behavior_notebook.ipynb` — PySpark data cleaning, transformation, ML model training, saving model  
 - `sql_behavior_notebook.ipynb` — SQL analytical queries used for insights and dashboards
 
-### ✔ Data
+##  Data
 - `customer_behaviour.csv`
 
-### ✔ Dashboard Screenshots
+## Dashboard Screenshots
 - `sql editor for season dashboard.png`
 - `sql editor for age dashboard.png`
 - `customer behavior dashboard.png`
